@@ -20,8 +20,8 @@ This project focuses on predicting home prices using the power of data manipulat
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/home-price-prediction.git
-cd home-price-prediction
+git clone https://github.com/AryanMurthy/Home-Price-Prediction.git
+cd Home-Price-Prediction
 ```
 
 Create a virtual environment and install the required packages:
